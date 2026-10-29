@@ -1,7 +1,7 @@
 # OS Mini Project - Video Demonstration
 
 ## Video Link
-[Watch the project demonstration](https://drive.google.com/file/d/1bUVSXquK78wE3rvQDAryZhKdh4FG4W-o/view?ts=6ae35857)
+https://drive.google.com/file/d/1bUVSXquK78wE3rvQDAryZhKdh4FG4W-o/view?ts=6ae35857
 
 ## Team Member Timestamps
 
