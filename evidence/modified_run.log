@@ -1,0 +1,11 @@
+-- west build: running target run
+[0/1] To exit from QEMU enter: 'CTRL+a, x'[QEMU] CPU: qemu32,+nx,+pae
+[0mSeaBIOS (version zephyr-v1.16.3-2-0-gf8da0cc-zephyr)
+Booting from ROM..
+[KERNEL TRACE] Thread switched in: 0
+*** Booting Zephyr OS build v4.5.0-rc2-383-g1179a68cd2d1 ***
+Hello World! qemu_x86/atom
+[KERNEL TRACE] Thread switched out: 0x10e120
+[KERNEL TRACE] Thread switched in: 0
+QEMU: Terminated
+
